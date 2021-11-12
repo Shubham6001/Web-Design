@@ -1,0 +1,177 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   background-color: #17191e;
+   
+   
+}
+
+#container{
+    color: #ffdb00;
+    padding: 80px 200px;
+    font-size: 30.04px;
+    line-height: 60px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo{
+    padding: 20px 200px;
+    margin: 3px;
+    
+    
+}
+
+.content{
+    color: black;
+    font-size: 15px;
+    line-height: 20px;
+    color: aliceblue;
+}
+
+.buton{
+    
+    font-size: 12.78px;
+    margin-left:70px;
+    line-height: 101.02px;
+    text-decoration: none;
+    border: 2px solid #ffda00;
+    border-radius: 30px;
+    padding: 15px;
+    color: white;
+}
+
+#para{
+    background-color: #ffda00;
+    height: 120px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 50px 40px;
+    
+}
+
+
+#whit{
+    background-color: white;
+    height: 100px;
+    
+    
+    
+}
+
+#edit{
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 700px;
+    
+    
+}
+
+#o{
+    background-color: white;
+    height: 100px;
+    padding-left: 208px;
+    
+}
+
+nav{
+    background: white;
+    height: 150px;
+    overflow: auto;
+    
+}
+
+ul{
+    padding: 40px 400px;
+    margin: 0px;
+    list-style: none;
+    line-height: 25px;
+    
+
+    
+    
+}
+
+li{
+    float: left;
+    
+  
+}
+
+nav a{
+    width: 100px;
+    display: block;
+    color: black;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+
+}
+
+nav a{
+    border: 1px solid yellow;
+    text-align: center;
+    padding: 10px 5px;
+    font-size: 20px;
+}
+
+a:hover{
+    background-color: yellow;
+    transition: 0.6s;
+}
+
+#yel{
+    margin-top: 0px;
+    background-color: #ffda00;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 300px;
+    font-size: 20px;
+}
+#pg{
+    background-color: #ffda00;
+    text-align: center;
+    padding: 20px 20px;
+    
+    
+}
+
+.more{
+    font-size: 20px;
+    margin-left:70px;
+    line-height: 101.02px;
+    text-decoration: none;
+    border: 5px solid white;
+    padding: 15px;
+    color: black
+}
+    
+    
+    
+    
+
+
+   
+
+   
+
+    
+    
+    
+    
+
+
+
+    
+    
+    
+ 
+    
+    
+
+
+
